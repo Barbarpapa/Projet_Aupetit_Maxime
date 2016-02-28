@@ -1,0 +1,2777 @@
+fileFormatVersion: 2
+guid: b23901d383904de419cbc8b9937ef8dc
+timeCreated: 1456420918
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: crane
+    100002: Laine
+    100004: Langue
+    100006: //RootNode
+    100008: oeil droit
+    100010: oiel gauche
+    100012: oreille droite
+    100014: oreille gauche
+    100016: "patte arri\xE8re droite"
+    100018: "patte arri\xE8re gauche"
+    100020: patte avant droite
+    100022: patte avant gauche
+    100024: pelage
+    100026: pupille droite
+    100028: pupille gauche
+    100030: queue
+    100032: Sphere001
+    100034: Sphere002
+    100036: Sphere003
+    100038: Sphere004
+    100040: Sphere005
+    100042: Sphere006
+    100044: Sphere007
+    100046: Sphere008
+    100048: Sphere009
+    100050: Sphere010
+    100052: Sphere011
+    100054: Sphere012
+    100056: Sphere013
+    100058: Sphere014
+    100060: Sphere015
+    100062: Sphere016
+    100064: Sphere017
+    100066: Sphere018
+    100068: Sphere019
+    100070: Sphere020
+    100072: Sphere021
+    100074: Sphere022
+    100076: Sphere023
+    100078: Sphere024
+    100080: Sphere025
+    100082: Sphere026
+    100084: Sphere027
+    100086: Sphere028
+    100088: Sphere029
+    100090: Sphere030
+    100092: Sphere031
+    100094: Sphere032
+    100096: Sphere033
+    100098: Sphere034
+    100100: Sphere035
+    100102: Sphere036
+    100104: Sphere037
+    100106: Sphere038
+    100108: Sphere039
+    100110: Sphere040
+    100112: Sphere041
+    100114: Sphere042
+    100116: Sphere043
+    100118: Sphere044
+    100120: Sphere045
+    100122: Sphere046
+    100124: Sphere047
+    100126: Sphere048
+    100128: Sphere049
+    100130: Sphere050
+    100132: Sphere051
+    100134: Sphere052
+    100136: Sphere053
+    100138: Sphere054
+    100140: Sphere055
+    100142: Sphere056
+    100144: Sphere057
+    100146: Sphere058
+    100148: Sphere059
+    100150: Sphere060
+    100152: Sphere061
+    100154: Sphere062
+    100156: Sphere063
+    100158: Sphere064
+    100160: Sphere065
+    100162: Sphere066
+    100164: Sphere067
+    100166: Sphere068
+    100168: Sphere069
+    100170: Sphere070
+    100172: Sphere071
+    100174: Sphere072
+    100176: Sphere073
+    100178: Sphere074
+    100180: Sphere075
+    100182: Sphere076
+    100184: Sphere077
+    100186: Sphere078
+    100188: Sphere079
+    100190: Sphere080
+    100192: Sphere081
+    100194: Sphere082
+    100196: Sphere083
+    100198: Sphere084
+    100200: Sphere085
+    100202: Sphere086
+    100204: Sphere087
+    100206: Sphere088
+    100208: Sphere089
+    100210: Sphere090
+    100212: Sphere091
+    100214: Sphere092
+    100216: Sphere093
+    100218: Sphere094
+    100220: Sphere095
+    100222: Sphere096
+    100224: Sphere097
+    100226: Sphere098
+    100228: Sphere099
+    100230: Sphere100
+    100232: Sphere101
+    100234: Sphere102
+    100236: Sphere103
+    100238: Sphere104
+    100240: Sphere105
+    100242: Sphere106
+    100244: Sphere107
+    100246: Sphere108
+    100248: Sphere109
+    100250: Sphere110
+    100252: Sphere111
+    100254: Sphere112
+    100256: Sphere113
+    100258: Sphere114
+    100260: Sphere115
+    100262: Sphere116
+    100264: Sphere117
+    100266: Sphere118
+    100268: Sphere119
+    100270: Sphere120
+    100272: Sphere121
+    100274: Sphere122
+    100276: Sphere123
+    100278: Sphere124
+    100280: Sphere125
+    100282: Sphere126
+    100284: Sphere127
+    100286: Sphere128
+    100288: Sphere129
+    100290: Sphere130
+    100292: Sphere131
+    100294: Sphere132
+    100296: Sphere133
+    100298: Sphere134
+    100300: Sphere135
+    100302: Sphere136
+    100304: Sphere137
+    100306: Sphere138
+    100308: Sphere139
+    100310: Sphere140
+    100312: Sphere141
+    100314: Sphere142
+    100316: Sphere143
+    100318: Sphere144
+    100320: Sphere145
+    100322: Sphere146
+    100324: Sphere147
+    100326: Sphere148
+    100328: Sphere149
+    100330: Sphere150
+    100332: Sphere151
+    100334: Sphere152
+    100336: Sphere153
+    100338: Sphere154
+    100340: Sphere155
+    100342: Sphere156
+    100344: Sphere157
+    100346: Sphere158
+    100348: Sphere159
+    100350: Sphere160
+    100352: Sphere161
+    100354: Sphere162
+    100356: Sphere163
+    100358: Sphere164
+    100360: Sphere165
+    100362: Sphere166
+    100364: Sphere167
+    100366: Sphere168
+    100368: Sphere169
+    100370: Sphere170
+    100372: Sphere171
+    100374: Sphere172
+    100376: Sphere173
+    100378: Sphere174
+    100380: Sphere175
+    100382: Sphere176
+    100384: Sphere177
+    100386: Sphere178
+    100388: Sphere179
+    100390: Sphere180
+    100392: Sphere181
+    100394: Sphere182
+    100396: Sphere183
+    100398: Sphere184
+    100400: Sphere185
+    100402: Sphere186
+    100404: Sphere187
+    100406: Sphere188
+    100408: Sphere189
+    100410: Sphere190
+    100412: Sphere191
+    100414: Sphere192
+    100416: Sphere193
+    100418: Sphere194
+    100420: Sphere195
+    100422: Sphere196
+    100424: Sphere197
+    100426: Sphere198
+    100428: Sphere199
+    100430: Sphere200
+    100432: Sphere201
+    100434: Sphere202
+    100436: Sphere203
+    100438: Sphere204
+    100440: Sphere205
+    100442: Sphere206
+    100444: Sphere207
+    100446: Sphere208
+    100448: Sphere209
+    100450: Sphere210
+    100452: Sphere211
+    100454: Sphere212
+    100456: Sphere213
+    100458: Sphere214
+    100460: Sphere215
+    100462: Sphere216
+    100464: Sphere217
+    100466: Sphere218
+    100468: Sphere219
+    100470: Sphere220
+    100472: Sphere221
+    100474: Sphere222
+    100476: Sphere223
+    100478: Sphere224
+    100480: Sphere225
+    100482: Sphere226
+    100484: Sphere227
+    100486: Sphere228
+    100488: Sphere229
+    100490: Sphere230
+    100492: Sphere231
+    100494: Sphere232
+    100496: Sphere233
+    100498: Sphere234
+    100500: Sphere235
+    100502: Sphere236
+    100504: Sphere237
+    100506: Sphere238
+    100508: Sphere239
+    100510: Sphere240
+    100512: Sphere241
+    100514: Sphere242
+    100516: Sphere243
+    100518: Sphere244
+    100520: Sphere245
+    100522: Sphere246
+    100524: Sphere247
+    100526: Sphere248
+    100528: Sphere249
+    100530: Sphere250
+    100532: Sphere251
+    100534: Sphere252
+    100536: Sphere253
+    100538: Sphere254
+    100540: Sphere255
+    100542: Sphere256
+    100544: Sphere257
+    100546: Sphere258
+    100548: Sphere259
+    100550: Sphere260
+    100552: Sphere261
+    100554: Sphere262
+    100556: Sphere263
+    100558: Sphere264
+    100560: Sphere265
+    100562: Sphere266
+    100564: Sphere267
+    100566: Sphere268
+    100568: Sphere269
+    100570: Sphere270
+    100572: Sphere271
+    100574: Sphere272
+    100576: Sphere273
+    100578: Sphere274
+    100580: Sphere275
+    100582: Sphere276
+    100584: Sphere277
+    100586: Sphere278
+    100588: Sphere279
+    100590: Sphere280
+    100592: Sphere281
+    100594: Sphere282
+    100596: Sphere283
+    100598: Sphere284
+    100600: Sphere285
+    100602: Sphere286
+    100604: Sphere287
+    100606: Sphere288
+    100608: Sphere289
+    100610: Sphere290
+    100612: Sphere291
+    100614: Sphere292
+    100616: Sphere293
+    100618: Sphere294
+    100620: Sphere295
+    100622: Sphere296
+    100624: Sphere297
+    100626: Sphere298
+    100628: Sphere299
+    100630: Sphere300
+    100632: Sphere301
+    100634: Sphere302
+    100636: Sphere303
+    100638: Sphere304
+    100640: Sphere305
+    100642: Sphere306
+    100644: Sphere307
+    100646: Sphere308
+    100648: Sphere309
+    100650: Sphere310
+    100652: Sphere311
+    100654: Sphere312
+    100656: Sphere313
+    100658: Sphere314
+    100660: Sphere315
+    100662: Sphere316
+    100664: Sphere317
+    100666: Sphere318
+    100668: Sphere319
+    100670: Sphere320
+    100672: Sphere321
+    100674: Sphere322
+    100676: Sphere323
+    100678: Sphere324
+    100680: Sphere325
+    100682: Sphere326
+    100684: Sphere327
+    100686: Sphere328
+    100688: Sphere329
+    100690: Sphere330
+    100692: Sphere331
+    100694: Sphere332
+    100696: Sphere333
+    100698: Sphere334
+    100700: Sphere335
+    100702: Sphere336
+    100704: Sphere337
+    100706: Sphere338
+    100708: Sphere339
+    100710: Sphere340
+    100712: Sphere341
+    100714: Sphere342
+    100716: Sphere343
+    100718: Sphere344
+    100720: Sphere345
+    100722: Sphere346
+    100724: Sphere347
+    100726: Sphere348
+    100728: Sphere349
+    100730: Sphere350
+    100732: Sphere351
+    100734: Sphere352
+    100736: Sphere353
+    100738: Sphere354
+    100740: Sphere355
+    100742: Sphere356
+    100744: Sphere357
+    100746: Sphere358
+    100748: Sphere359
+    100750: Sphere360
+    100752: Sphere361
+    100754: Sphere362
+    100756: Sphere363
+    100758: Sphere364
+    100760: Sphere365
+    100762: Sphere366
+    100764: Sphere367
+    400000: crane
+    400002: Laine
+    400004: Langue
+    400006: //RootNode
+    400008: oeil droit
+    400010: oiel gauche
+    400012: oreille droite
+    400014: oreille gauche
+    400016: "patte arri\xE8re droite"
+    400018: "patte arri\xE8re gauche"
+    400020: patte avant droite
+    400022: patte avant gauche
+    400024: pelage
+    400026: pupille droite
+    400028: pupille gauche
+    400030: queue
+    400032: Sphere001
+    400034: Sphere002
+    400036: Sphere003
+    400038: Sphere004
+    400040: Sphere005
+    400042: Sphere006
+    400044: Sphere007
+    400046: Sphere008
+    400048: Sphere009
+    400050: Sphere010
+    400052: Sphere011
+    400054: Sphere012
+    400056: Sphere013
+    400058: Sphere014
+    400060: Sphere015
+    400062: Sphere016
+    400064: Sphere017
+    400066: Sphere018
+    400068: Sphere019
+    400070: Sphere020
+    400072: Sphere021
+    400074: Sphere022
+    400076: Sphere023
+    400078: Sphere024
+    400080: Sphere025
+    400082: Sphere026
+    400084: Sphere027
+    400086: Sphere028
+    400088: Sphere029
+    400090: Sphere030
+    400092: Sphere031
+    400094: Sphere032
+    400096: Sphere033
+    400098: Sphere034
+    400100: Sphere035
+    400102: Sphere036
+    400104: Sphere037
+    400106: Sphere038
+    400108: Sphere039
+    400110: Sphere040
+    400112: Sphere041
+    400114: Sphere042
+    400116: Sphere043
+    400118: Sphere044
+    400120: Sphere045
+    400122: Sphere046
+    400124: Sphere047
+    400126: Sphere048
+    400128: Sphere049
+    400130: Sphere050
+    400132: Sphere051
+    400134: Sphere052
+    400136: Sphere053
+    400138: Sphere054
+    400140: Sphere055
+    400142: Sphere056
+    400144: Sphere057
+    400146: Sphere058
+    400148: Sphere059
+    400150: Sphere060
+    400152: Sphere061
+    400154: Sphere062
+    400156: Sphere063
+    400158: Sphere064
+    400160: Sphere065
+    400162: Sphere066
+    400164: Sphere067
+    400166: Sphere068
+    400168: Sphere069
+    400170: Sphere070
+    400172: Sphere071
+    400174: Sphere072
+    400176: Sphere073
+    400178: Sphere074
+    400180: Sphere075
+    400182: Sphere076
+    400184: Sphere077
+    400186: Sphere078
+    400188: Sphere079
+    400190: Sphere080
+    400192: Sphere081
+    400194: Sphere082
+    400196: Sphere083
+    400198: Sphere084
+    400200: Sphere085
+    400202: Sphere086
+    400204: Sphere087
+    400206: Sphere088
+    400208: Sphere089
+    400210: Sphere090
+    400212: Sphere091
+    400214: Sphere092
+    400216: Sphere093
+    400218: Sphere094
+    400220: Sphere095
+    400222: Sphere096
+    400224: Sphere097
+    400226: Sphere098
+    400228: Sphere099
+    400230: Sphere100
+    400232: Sphere101
+    400234: Sphere102
+    400236: Sphere103
+    400238: Sphere104
+    400240: Sphere105
+    400242: Sphere106
+    400244: Sphere107
+    400246: Sphere108
+    400248: Sphere109
+    400250: Sphere110
+    400252: Sphere111
+    400254: Sphere112
+    400256: Sphere113
+    400258: Sphere114
+    400260: Sphere115
+    400262: Sphere116
+    400264: Sphere117
+    400266: Sphere118
+    400268: Sphere119
+    400270: Sphere120
+    400272: Sphere121
+    400274: Sphere122
+    400276: Sphere123
+    400278: Sphere124
+    400280: Sphere125
+    400282: Sphere126
+    400284: Sphere127
+    400286: Sphere128
+    400288: Sphere129
+    400290: Sphere130
+    400292: Sphere131
+    400294: Sphere132
+    400296: Sphere133
+    400298: Sphere134
+    400300: Sphere135
+    400302: Sphere136
+    400304: Sphere137
+    400306: Sphere138
+    400308: Sphere139
+    400310: Sphere140
+    400312: Sphere141
+    400314: Sphere142
+    400316: Sphere143
+    400318: Sphere144
+    400320: Sphere145
+    400322: Sphere146
+    400324: Sphere147
+    400326: Sphere148
+    400328: Sphere149
+    400330: Sphere150
+    400332: Sphere151
+    400334: Sphere152
+    400336: Sphere153
+    400338: Sphere154
+    400340: Sphere155
+    400342: Sphere156
+    400344: Sphere157
+    400346: Sphere158
+    400348: Sphere159
+    400350: Sphere160
+    400352: Sphere161
+    400354: Sphere162
+    400356: Sphere163
+    400358: Sphere164
+    400360: Sphere165
+    400362: Sphere166
+    400364: Sphere167
+    400366: Sphere168
+    400368: Sphere169
+    400370: Sphere170
+    400372: Sphere171
+    400374: Sphere172
+    400376: Sphere173
+    400378: Sphere174
+    400380: Sphere175
+    400382: Sphere176
+    400384: Sphere177
+    400386: Sphere178
+    400388: Sphere179
+    400390: Sphere180
+    400392: Sphere181
+    400394: Sphere182
+    400396: Sphere183
+    400398: Sphere184
+    400400: Sphere185
+    400402: Sphere186
+    400404: Sphere187
+    400406: Sphere188
+    400408: Sphere189
+    400410: Sphere190
+    400412: Sphere191
+    400414: Sphere192
+    400416: Sphere193
+    400418: Sphere194
+    400420: Sphere195
+    400422: Sphere196
+    400424: Sphere197
+    400426: Sphere198
+    400428: Sphere199
+    400430: Sphere200
+    400432: Sphere201
+    400434: Sphere202
+    400436: Sphere203
+    400438: Sphere204
+    400440: Sphere205
+    400442: Sphere206
+    400444: Sphere207
+    400446: Sphere208
+    400448: Sphere209
+    400450: Sphere210
+    400452: Sphere211
+    400454: Sphere212
+    400456: Sphere213
+    400458: Sphere214
+    400460: Sphere215
+    400462: Sphere216
+    400464: Sphere217
+    400466: Sphere218
+    400468: Sphere219
+    400470: Sphere220
+    400472: Sphere221
+    400474: Sphere222
+    400476: Sphere223
+    400478: Sphere224
+    400480: Sphere225
+    400482: Sphere226
+    400484: Sphere227
+    400486: Sphere228
+    400488: Sphere229
+    400490: Sphere230
+    400492: Sphere231
+    400494: Sphere232
+    400496: Sphere233
+    400498: Sphere234
+    400500: Sphere235
+    400502: Sphere236
+    400504: Sphere237
+    400506: Sphere238
+    400508: Sphere239
+    400510: Sphere240
+    400512: Sphere241
+    400514: Sphere242
+    400516: Sphere243
+    400518: Sphere244
+    400520: Sphere245
+    400522: Sphere246
+    400524: Sphere247
+    400526: Sphere248
+    400528: Sphere249
+    400530: Sphere250
+    400532: Sphere251
+    400534: Sphere252
+    400536: Sphere253
+    400538: Sphere254
+    400540: Sphere255
+    400542: Sphere256
+    400544: Sphere257
+    400546: Sphere258
+    400548: Sphere259
+    400550: Sphere260
+    400552: Sphere261
+    400554: Sphere262
+    400556: Sphere263
+    400558: Sphere264
+    400560: Sphere265
+    400562: Sphere266
+    400564: Sphere267
+    400566: Sphere268
+    400568: Sphere269
+    400570: Sphere270
+    400572: Sphere271
+    400574: Sphere272
+    400576: Sphere273
+    400578: Sphere274
+    400580: Sphere275
+    400582: Sphere276
+    400584: Sphere277
+    400586: Sphere278
+    400588: Sphere279
+    400590: Sphere280
+    400592: Sphere281
+    400594: Sphere282
+    400596: Sphere283
+    400598: Sphere284
+    400600: Sphere285
+    400602: Sphere286
+    400604: Sphere287
+    400606: Sphere288
+    400608: Sphere289
+    400610: Sphere290
+    400612: Sphere291
+    400614: Sphere292
+    400616: Sphere293
+    400618: Sphere294
+    400620: Sphere295
+    400622: Sphere296
+    400624: Sphere297
+    400626: Sphere298
+    400628: Sphere299
+    400630: Sphere300
+    400632: Sphere301
+    400634: Sphere302
+    400636: Sphere303
+    400638: Sphere304
+    400640: Sphere305
+    400642: Sphere306
+    400644: Sphere307
+    400646: Sphere308
+    400648: Sphere309
+    400650: Sphere310
+    400652: Sphere311
+    400654: Sphere312
+    400656: Sphere313
+    400658: Sphere314
+    400660: Sphere315
+    400662: Sphere316
+    400664: Sphere317
+    400666: Sphere318
+    400668: Sphere319
+    400670: Sphere320
+    400672: Sphere321
+    400674: Sphere322
+    400676: Sphere323
+    400678: Sphere324
+    400680: Sphere325
+    400682: Sphere326
+    400684: Sphere327
+    400686: Sphere328
+    400688: Sphere329
+    400690: Sphere330
+    400692: Sphere331
+    400694: Sphere332
+    400696: Sphere333
+    400698: Sphere334
+    400700: Sphere335
+    400702: Sphere336
+    400704: Sphere337
+    400706: Sphere338
+    400708: Sphere339
+    400710: Sphere340
+    400712: Sphere341
+    400714: Sphere342
+    400716: Sphere343
+    400718: Sphere344
+    400720: Sphere345
+    400722: Sphere346
+    400724: Sphere347
+    400726: Sphere348
+    400728: Sphere349
+    400730: Sphere350
+    400732: Sphere351
+    400734: Sphere352
+    400736: Sphere353
+    400738: Sphere354
+    400740: Sphere355
+    400742: Sphere356
+    400744: Sphere357
+    400746: Sphere358
+    400748: Sphere359
+    400750: Sphere360
+    400752: Sphere361
+    400754: Sphere362
+    400756: Sphere363
+    400758: Sphere364
+    400760: Sphere365
+    400762: Sphere366
+    400764: Sphere367
+    2300000: crane
+    2300002: Langue
+    2300004: //RootNode
+    2300006: oeil droit
+    2300008: oiel gauche
+    2300010: oreille droite
+    2300012: oreille gauche
+    2300014: "patte arri\xE8re droite"
+    2300016: "patte arri\xE8re gauche"
+    2300018: patte avant droite
+    2300020: patte avant gauche
+    2300022: pupille droite
+    2300024: pupille gauche
+    2300026: queue
+    2300028: Sphere001
+    2300030: Sphere002
+    2300032: Sphere003
+    2300034: Sphere004
+    2300036: Sphere005
+    2300038: Sphere006
+    2300040: Sphere007
+    2300042: Sphere008
+    2300044: Sphere009
+    2300046: Sphere010
+    2300048: Sphere011
+    2300050: Sphere012
+    2300052: Sphere013
+    2300054: Sphere014
+    2300056: Sphere015
+    2300058: Sphere016
+    2300060: Sphere017
+    2300062: Sphere018
+    2300064: Sphere019
+    2300066: Sphere020
+    2300068: Sphere021
+    2300070: Sphere022
+    2300072: Sphere023
+    2300074: Sphere024
+    2300076: Sphere025
+    2300078: Sphere026
+    2300080: Sphere027
+    2300082: Sphere028
+    2300084: Sphere029
+    2300086: Sphere030
+    2300088: Sphere031
+    2300090: Sphere032
+    2300092: Sphere033
+    2300094: Sphere034
+    2300096: Sphere035
+    2300098: Sphere036
+    2300100: Sphere037
+    2300102: Sphere038
+    2300104: Sphere039
+    2300106: Sphere040
+    2300108: Sphere041
+    2300110: Sphere042
+    2300112: Sphere043
+    2300114: Sphere044
+    2300116: Sphere045
+    2300118: Sphere046
+    2300120: Sphere047
+    2300122: Sphere048
+    2300124: Sphere049
+    2300126: Sphere050
+    2300128: Sphere051
+    2300130: Sphere052
+    2300132: Sphere053
+    2300134: Sphere054
+    2300136: Sphere055
+    2300138: Sphere056
+    2300140: Sphere057
+    2300142: Sphere058
+    2300144: Sphere059
+    2300146: Sphere060
+    2300148: Sphere061
+    2300150: Sphere062
+    2300152: Sphere063
+    2300154: Sphere064
+    2300156: Sphere065
+    2300158: Sphere066
+    2300160: Sphere067
+    2300162: Sphere068
+    2300164: Sphere069
+    2300166: Sphere070
+    2300168: Sphere071
+    2300170: Sphere072
+    2300172: Sphere073
+    2300174: Sphere074
+    2300176: Sphere075
+    2300178: Sphere076
+    2300180: Sphere077
+    2300182: Sphere078
+    2300184: Sphere079
+    2300186: Sphere080
+    2300188: Sphere081
+    2300190: Sphere082
+    2300192: Sphere083
+    2300194: Sphere084
+    2300196: Sphere085
+    2300198: Sphere086
+    2300200: Sphere087
+    2300202: Sphere088
+    2300204: Sphere089
+    2300206: Sphere090
+    2300208: Sphere091
+    2300210: Sphere092
+    2300212: Sphere093
+    2300214: Sphere094
+    2300216: Sphere095
+    2300218: Sphere096
+    2300220: Sphere097
+    2300222: Sphere098
+    2300224: Sphere099
+    2300226: Sphere100
+    2300228: Sphere101
+    2300230: Sphere102
+    2300232: Sphere103
+    2300234: Sphere104
+    2300236: Sphere105
+    2300238: Sphere106
+    2300240: Sphere107
+    2300242: Sphere108
+    2300244: Sphere109
+    2300246: Sphere110
+    2300248: Sphere111
+    2300250: Sphere112
+    2300252: Sphere113
+    2300254: Sphere114
+    2300256: Sphere115
+    2300258: Sphere116
+    2300260: Sphere117
+    2300262: Sphere118
+    2300264: Sphere119
+    2300266: Sphere120
+    2300268: Sphere121
+    2300270: Sphere122
+    2300272: Sphere123
+    2300274: Sphere124
+    2300276: Sphere125
+    2300278: Sphere126
+    2300280: Sphere127
+    2300282: Sphere128
+    2300284: Sphere129
+    2300286: Sphere130
+    2300288: Sphere131
+    2300290: Sphere132
+    2300292: Sphere133
+    2300294: Sphere134
+    2300296: Sphere135
+    2300298: Sphere136
+    2300300: Sphere137
+    2300302: Sphere138
+    2300304: Sphere139
+    2300306: Sphere140
+    2300308: Sphere141
+    2300310: Sphere142
+    2300312: Sphere143
+    2300314: Sphere144
+    2300316: Sphere145
+    2300318: Sphere146
+    2300320: Sphere147
+    2300322: Sphere148
+    2300324: Sphere149
+    2300326: Sphere150
+    2300328: Sphere151
+    2300330: Sphere152
+    2300332: Sphere153
+    2300334: Sphere154
+    2300336: Sphere155
+    2300338: Sphere156
+    2300340: Sphere157
+    2300342: Sphere158
+    2300344: Sphere159
+    2300346: Sphere160
+    2300348: Sphere161
+    2300350: Sphere162
+    2300352: Sphere163
+    2300354: Sphere164
+    2300356: Sphere165
+    2300358: Sphere166
+    2300360: Sphere167
+    2300362: Sphere168
+    2300364: Sphere169
+    2300366: Sphere170
+    2300368: Sphere171
+    2300370: Sphere172
+    2300372: Sphere173
+    2300374: Sphere174
+    2300376: Sphere175
+    2300378: Sphere176
+    2300380: Sphere177
+    2300382: Sphere178
+    2300384: Sphere179
+    2300386: Sphere180
+    2300388: Sphere181
+    2300390: Sphere182
+    2300392: Sphere183
+    2300394: Sphere184
+    2300396: Sphere185
+    2300398: Sphere186
+    2300400: Sphere187
+    2300402: Sphere188
+    2300404: Sphere189
+    2300406: Sphere190
+    2300408: Sphere191
+    2300410: Sphere192
+    2300412: Sphere193
+    2300414: Sphere194
+    2300416: Sphere195
+    2300418: Sphere196
+    2300420: Sphere197
+    2300422: Sphere198
+    2300424: Sphere199
+    2300426: Sphere200
+    2300428: Sphere201
+    2300430: Sphere202
+    2300432: Sphere203
+    2300434: Sphere204
+    2300436: Sphere205
+    2300438: Sphere206
+    2300440: Sphere207
+    2300442: Sphere208
+    2300444: Sphere209
+    2300446: Sphere210
+    2300448: Sphere211
+    2300450: Sphere212
+    2300452: Sphere213
+    2300454: Sphere214
+    2300456: Sphere215
+    2300458: Sphere216
+    2300460: Sphere217
+    2300462: Sphere218
+    2300464: Sphere219
+    2300466: Sphere220
+    2300468: Sphere221
+    2300470: Sphere222
+    2300472: Sphere223
+    2300474: Sphere224
+    2300476: Sphere225
+    2300478: Sphere226
+    2300480: Sphere227
+    2300482: Sphere228
+    2300484: Sphere229
+    2300486: Sphere230
+    2300488: Sphere231
+    2300490: Sphere232
+    2300492: Sphere233
+    2300494: Sphere234
+    2300496: Sphere235
+    2300498: Sphere236
+    2300500: Sphere237
+    2300502: Sphere238
+    2300504: Sphere239
+    2300506: Sphere240
+    2300508: Sphere241
+    2300510: Sphere242
+    2300512: Sphere243
+    2300514: Sphere244
+    2300516: Sphere245
+    2300518: Sphere246
+    2300520: Sphere247
+    2300522: Sphere248
+    2300524: Sphere249
+    2300526: Sphere250
+    2300528: Sphere251
+    2300530: Sphere252
+    2300532: Sphere253
+    2300534: Sphere254
+    2300536: Sphere255
+    2300538: Sphere256
+    2300540: Sphere257
+    2300542: Sphere258
+    2300544: Sphere259
+    2300546: Sphere260
+    2300548: Sphere261
+    2300550: Sphere262
+    2300552: Sphere263
+    2300554: Sphere264
+    2300556: Sphere265
+    2300558: Sphere266
+    2300560: Sphere267
+    2300562: Sphere268
+    2300564: Sphere269
+    2300566: Sphere270
+    2300568: Sphere271
+    2300570: Sphere272
+    2300572: Sphere273
+    2300574: Sphere274
+    2300576: Sphere275
+    2300578: Sphere276
+    2300580: Sphere277
+    2300582: Sphere278
+    2300584: Sphere279
+    2300586: Sphere280
+    2300588: Sphere281
+    2300590: Sphere282
+    2300592: Sphere283
+    2300594: Sphere284
+    2300596: Sphere285
+    2300598: Sphere286
+    2300600: Sphere287
+    2300602: Sphere288
+    2300604: Sphere289
+    2300606: Sphere290
+    2300608: Sphere291
+    2300610: Sphere292
+    2300612: Sphere293
+    2300614: Sphere294
+    2300616: Sphere295
+    2300618: Sphere296
+    2300620: Sphere297
+    2300622: Sphere298
+    2300624: Sphere299
+    2300626: Sphere300
+    2300628: Sphere301
+    2300630: Sphere302
+    2300632: Sphere303
+    2300634: Sphere304
+    2300636: Sphere305
+    2300638: Sphere306
+    2300640: Sphere307
+    2300642: Sphere308
+    2300644: Sphere309
+    2300646: Sphere310
+    2300648: Sphere311
+    2300650: Sphere312
+    2300652: Sphere313
+    2300654: Sphere314
+    2300656: Sphere315
+    2300658: Sphere316
+    2300660: Sphere317
+    2300662: Sphere318
+    2300664: Sphere319
+    2300666: Sphere320
+    2300668: Sphere321
+    2300670: Sphere322
+    2300672: Sphere323
+    2300674: Sphere324
+    2300676: Sphere325
+    2300678: Sphere326
+    2300680: Sphere327
+    2300682: Sphere328
+    2300684: Sphere329
+    2300686: Sphere330
+    2300688: Sphere331
+    2300690: Sphere332
+    2300692: Sphere333
+    2300694: Sphere334
+    2300696: Sphere335
+    2300698: Sphere336
+    2300700: Sphere337
+    2300702: Sphere338
+    2300704: Sphere339
+    2300706: Sphere340
+    2300708: Sphere341
+    2300710: Sphere342
+    2300712: Sphere343
+    2300714: Sphere344
+    2300716: Sphere345
+    2300718: Sphere346
+    2300720: Sphere347
+    2300722: Sphere348
+    2300724: Sphere349
+    2300726: Sphere350
+    2300728: Sphere351
+    2300730: Sphere352
+    2300732: Sphere353
+    2300734: Sphere354
+    2300736: Sphere355
+    2300738: Sphere356
+    2300740: Sphere357
+    2300742: Sphere358
+    2300744: Sphere359
+    2300746: Sphere360
+    2300748: Sphere361
+    2300750: Sphere362
+    2300752: Sphere363
+    2300754: Sphere364
+    2300756: Sphere365
+    2300758: Sphere366
+    2300760: Sphere367
+    3300000: crane
+    3300002: Langue
+    3300004: //RootNode
+    3300006: oeil droit
+    3300008: oiel gauche
+    3300010: oreille droite
+    3300012: oreille gauche
+    3300014: "patte arri\xE8re droite"
+    3300016: "patte arri\xE8re gauche"
+    3300018: patte avant droite
+    3300020: patte avant gauche
+    3300022: pupille droite
+    3300024: pupille gauche
+    3300026: queue
+    3300028: Sphere001
+    3300030: Sphere002
+    3300032: Sphere003
+    3300034: Sphere004
+    3300036: Sphere005
+    3300038: Sphere006
+    3300040: Sphere007
+    3300042: Sphere008
+    3300044: Sphere009
+    3300046: Sphere010
+    3300048: Sphere011
+    3300050: Sphere012
+    3300052: Sphere013
+    3300054: Sphere014
+    3300056: Sphere015
+    3300058: Sphere016
+    3300060: Sphere017
+    3300062: Sphere018
+    3300064: Sphere019
+    3300066: Sphere020
+    3300068: Sphere021
+    3300070: Sphere022
+    3300072: Sphere023
+    3300074: Sphere024
+    3300076: Sphere025
+    3300078: Sphere026
+    3300080: Sphere027
+    3300082: Sphere028
+    3300084: Sphere029
+    3300086: Sphere030
+    3300088: Sphere031
+    3300090: Sphere032
+    3300092: Sphere033
+    3300094: Sphere034
+    3300096: Sphere035
+    3300098: Sphere036
+    3300100: Sphere037
+    3300102: Sphere038
+    3300104: Sphere039
+    3300106: Sphere040
+    3300108: Sphere041
+    3300110: Sphere042
+    3300112: Sphere043
+    3300114: Sphere044
+    3300116: Sphere045
+    3300118: Sphere046
+    3300120: Sphere047
+    3300122: Sphere048
+    3300124: Sphere049
+    3300126: Sphere050
+    3300128: Sphere051
+    3300130: Sphere052
+    3300132: Sphere053
+    3300134: Sphere054
+    3300136: Sphere055
+    3300138: Sphere056
+    3300140: Sphere057
+    3300142: Sphere058
+    3300144: Sphere059
+    3300146: Sphere060
+    3300148: Sphere061
+    3300150: Sphere062
+    3300152: Sphere063
+    3300154: Sphere064
+    3300156: Sphere065
+    3300158: Sphere066
+    3300160: Sphere067
+    3300162: Sphere068
+    3300164: Sphere069
+    3300166: Sphere070
+    3300168: Sphere071
+    3300170: Sphere072
+    3300172: Sphere073
+    3300174: Sphere074
+    3300176: Sphere075
+    3300178: Sphere076
+    3300180: Sphere077
+    3300182: Sphere078
+    3300184: Sphere079
+    3300186: Sphere080
+    3300188: Sphere081
+    3300190: Sphere082
+    3300192: Sphere083
+    3300194: Sphere084
+    3300196: Sphere085
+    3300198: Sphere086
+    3300200: Sphere087
+    3300202: Sphere088
+    3300204: Sphere089
+    3300206: Sphere090
+    3300208: Sphere091
+    3300210: Sphere092
+    3300212: Sphere093
+    3300214: Sphere094
+    3300216: Sphere095
+    3300218: Sphere096
+    3300220: Sphere097
+    3300222: Sphere098
+    3300224: Sphere099
+    3300226: Sphere100
+    3300228: Sphere101
+    3300230: Sphere102
+    3300232: Sphere103
+    3300234: Sphere104
+    3300236: Sphere105
+    3300238: Sphere106
+    3300240: Sphere107
+    3300242: Sphere108
+    3300244: Sphere109
+    3300246: Sphere110
+    3300248: Sphere111
+    3300250: Sphere112
+    3300252: Sphere113
+    3300254: Sphere114
+    3300256: Sphere115
+    3300258: Sphere116
+    3300260: Sphere117
+    3300262: Sphere118
+    3300264: Sphere119
+    3300266: Sphere120
+    3300268: Sphere121
+    3300270: Sphere122
+    3300272: Sphere123
+    3300274: Sphere124
+    3300276: Sphere125
+    3300278: Sphere126
+    3300280: Sphere127
+    3300282: Sphere128
+    3300284: Sphere129
+    3300286: Sphere130
+    3300288: Sphere131
+    3300290: Sphere132
+    3300292: Sphere133
+    3300294: Sphere134
+    3300296: Sphere135
+    3300298: Sphere136
+    3300300: Sphere137
+    3300302: Sphere138
+    3300304: Sphere139
+    3300306: Sphere140
+    3300308: Sphere141
+    3300310: Sphere142
+    3300312: Sphere143
+    3300314: Sphere144
+    3300316: Sphere145
+    3300318: Sphere146
+    3300320: Sphere147
+    3300322: Sphere148
+    3300324: Sphere149
+    3300326: Sphere150
+    3300328: Sphere151
+    3300330: Sphere152
+    3300332: Sphere153
+    3300334: Sphere154
+    3300336: Sphere155
+    3300338: Sphere156
+    3300340: Sphere157
+    3300342: Sphere158
+    3300344: Sphere159
+    3300346: Sphere160
+    3300348: Sphere161
+    3300350: Sphere162
+    3300352: Sphere163
+    3300354: Sphere164
+    3300356: Sphere165
+    3300358: Sphere166
+    3300360: Sphere167
+    3300362: Sphere168
+    3300364: Sphere169
+    3300366: Sphere170
+    3300368: Sphere171
+    3300370: Sphere172
+    3300372: Sphere173
+    3300374: Sphere174
+    3300376: Sphere175
+    3300378: Sphere176
+    3300380: Sphere177
+    3300382: Sphere178
+    3300384: Sphere179
+    3300386: Sphere180
+    3300388: Sphere181
+    3300390: Sphere182
+    3300392: Sphere183
+    3300394: Sphere184
+    3300396: Sphere185
+    3300398: Sphere186
+    3300400: Sphere187
+    3300402: Sphere188
+    3300404: Sphere189
+    3300406: Sphere190
+    3300408: Sphere191
+    3300410: Sphere192
+    3300412: Sphere193
+    3300414: Sphere194
+    3300416: Sphere195
+    3300418: Sphere196
+    3300420: Sphere197
+    3300422: Sphere198
+    3300424: Sphere199
+    3300426: Sphere200
+    3300428: Sphere201
+    3300430: Sphere202
+    3300432: Sphere203
+    3300434: Sphere204
+    3300436: Sphere205
+    3300438: Sphere206
+    3300440: Sphere207
+    3300442: Sphere208
+    3300444: Sphere209
+    3300446: Sphere210
+    3300448: Sphere211
+    3300450: Sphere212
+    3300452: Sphere213
+    3300454: Sphere214
+    3300456: Sphere215
+    3300458: Sphere216
+    3300460: Sphere217
+    3300462: Sphere218
+    3300464: Sphere219
+    3300466: Sphere220
+    3300468: Sphere221
+    3300470: Sphere222
+    3300472: Sphere223
+    3300474: Sphere224
+    3300476: Sphere225
+    3300478: Sphere226
+    3300480: Sphere227
+    3300482: Sphere228
+    3300484: Sphere229
+    3300486: Sphere230
+    3300488: Sphere231
+    3300490: Sphere232
+    3300492: Sphere233
+    3300494: Sphere234
+    3300496: Sphere235
+    3300498: Sphere236
+    3300500: Sphere237
+    3300502: Sphere238
+    3300504: Sphere239
+    3300506: Sphere240
+    3300508: Sphere241
+    3300510: Sphere242
+    3300512: Sphere243
+    3300514: Sphere244
+    3300516: Sphere245
+    3300518: Sphere246
+    3300520: Sphere247
+    3300522: Sphere248
+    3300524: Sphere249
+    3300526: Sphere250
+    3300528: Sphere251
+    3300530: Sphere252
+    3300532: Sphere253
+    3300534: Sphere254
+    3300536: Sphere255
+    3300538: Sphere256
+    3300540: Sphere257
+    3300542: Sphere258
+    3300544: Sphere259
+    3300546: Sphere260
+    3300548: Sphere261
+    3300550: Sphere262
+    3300552: Sphere263
+    3300554: Sphere264
+    3300556: Sphere265
+    3300558: Sphere266
+    3300560: Sphere267
+    3300562: Sphere268
+    3300564: Sphere269
+    3300566: Sphere270
+    3300568: Sphere271
+    3300570: Sphere272
+    3300572: Sphere273
+    3300574: Sphere274
+    3300576: Sphere275
+    3300578: Sphere276
+    3300580: Sphere277
+    3300582: Sphere278
+    3300584: Sphere279
+    3300586: Sphere280
+    3300588: Sphere281
+    3300590: Sphere282
+    3300592: Sphere283
+    3300594: Sphere284
+    3300596: Sphere285
+    3300598: Sphere286
+    3300600: Sphere287
+    3300602: Sphere288
+    3300604: Sphere289
+    3300606: Sphere290
+    3300608: Sphere291
+    3300610: Sphere292
+    3300612: Sphere293
+    3300614: Sphere294
+    3300616: Sphere295
+    3300618: Sphere296
+    3300620: Sphere297
+    3300622: Sphere298
+    3300624: Sphere299
+    3300626: Sphere300
+    3300628: Sphere301
+    3300630: Sphere302
+    3300632: Sphere303
+    3300634: Sphere304
+    3300636: Sphere305
+    3300638: Sphere306
+    3300640: Sphere307
+    3300642: Sphere308
+    3300644: Sphere309
+    3300646: Sphere310
+    3300648: Sphere311
+    3300650: Sphere312
+    3300652: Sphere313
+    3300654: Sphere314
+    3300656: Sphere315
+    3300658: Sphere316
+    3300660: Sphere317
+    3300662: Sphere318
+    3300664: Sphere319
+    3300666: Sphere320
+    3300668: Sphere321
+    3300670: Sphere322
+    3300672: Sphere323
+    3300674: Sphere324
+    3300676: Sphere325
+    3300678: Sphere326
+    3300680: Sphere327
+    3300682: Sphere328
+    3300684: Sphere329
+    3300686: Sphere330
+    3300688: Sphere331
+    3300690: Sphere332
+    3300692: Sphere333
+    3300694: Sphere334
+    3300696: Sphere335
+    3300698: Sphere336
+    3300700: Sphere337
+    3300702: Sphere338
+    3300704: Sphere339
+    3300706: Sphere340
+    3300708: Sphere341
+    3300710: Sphere342
+    3300712: Sphere343
+    3300714: Sphere344
+    3300716: Sphere345
+    3300718: Sphere346
+    3300720: Sphere347
+    3300722: Sphere348
+    3300724: Sphere349
+    3300726: Sphere350
+    3300728: Sphere351
+    3300730: Sphere352
+    3300732: Sphere353
+    3300734: Sphere354
+    3300736: Sphere355
+    3300738: Sphere356
+    3300740: Sphere357
+    3300742: Sphere358
+    3300744: Sphere359
+    3300746: Sphere360
+    3300748: Sphere361
+    3300750: Sphere362
+    3300752: Sphere363
+    3300754: Sphere364
+    3300756: Sphere365
+    3300758: Sphere366
+    3300760: Sphere367
+    4300000: buste
+    4300002: crane
+    4300004: oiel gauche
+    4300006: pupille gauche
+    4300008: oeil droit
+    4300010: pupille droite
+    4300012: Langue
+    4300014: oreille droite
+    4300016: oreille gauche
+    4300018: Sphere020
+    4300020: Sphere019
+    4300022: Sphere018
+    4300024: Sphere017
+    4300026: Sphere016
+    4300028: Sphere015
+    4300030: Sphere014
+    4300032: Sphere013
+    4300034: Sphere012
+    4300036: Sphere011
+    4300038: Sphere010
+    4300040: Sphere009
+    4300042: Sphere008
+    4300044: Sphere007
+    4300046: Sphere006
+    4300048: Sphere005
+    4300050: Sphere004
+    4300052: Sphere003
+    4300054: Sphere002
+    4300056: Sphere001
+    4300058: patte avant droite
+    4300060: "patte arri\xE8re gauche"
+    4300062: patte avant gauche
+    4300064: queue
+    4300066: "patte arri\xE8re droite"
+    4300068: Sphere021
+    4300070: Sphere022
+    4300072: Sphere023
+    4300074: Sphere024
+    4300076: Sphere025
+    4300078: Sphere026
+    4300080: Sphere027
+    4300082: Sphere028
+    4300084: Sphere029
+    4300086: Sphere030
+    4300088: Sphere031
+    4300090: Sphere032
+    4300092: Sphere033
+    4300094: Sphere034
+    4300096: Sphere035
+    4300098: Sphere036
+    4300100: Sphere037
+    4300102: Sphere038
+    4300104: Sphere039
+    4300106: Sphere040
+    4300108: Sphere041
+    4300110: Sphere042
+    4300112: Sphere043
+    4300114: Sphere044
+    4300116: Sphere045
+    4300118: Sphere046
+    4300120: Sphere047
+    4300122: Sphere048
+    4300124: Sphere049
+    4300126: Sphere050
+    4300128: Sphere051
+    4300130: Sphere052
+    4300132: Sphere053
+    4300134: Sphere054
+    4300136: Sphere055
+    4300138: Sphere056
+    4300140: Sphere057
+    4300142: Sphere058
+    4300144: Sphere059
+    4300146: Sphere060
+    4300148: Sphere061
+    4300150: Sphere062
+    4300152: Sphere063
+    4300154: Sphere064
+    4300156: Sphere065
+    4300158: Sphere066
+    4300160: Sphere067
+    4300162: Sphere068
+    4300164: Sphere069
+    4300166: Sphere070
+    4300168: Sphere071
+    4300170: Sphere072
+    4300172: Sphere073
+    4300174: Sphere074
+    4300176: Sphere075
+    4300178: Sphere076
+    4300180: Sphere077
+    4300182: Sphere078
+    4300184: Sphere079
+    4300186: Sphere080
+    4300188: Sphere081
+    4300190: Sphere082
+    4300192: Sphere083
+    4300194: Sphere084
+    4300196: Sphere085
+    4300198: Sphere086
+    4300200: Sphere087
+    4300202: Sphere088
+    4300204: Sphere089
+    4300206: Sphere090
+    4300208: Sphere091
+    4300210: Sphere092
+    4300212: Sphere093
+    4300214: Sphere094
+    4300216: Sphere095
+    4300218: Sphere096
+    4300220: Sphere097
+    4300222: Sphere098
+    4300224: Sphere099
+    4300226: Sphere100
+    4300228: Sphere101
+    4300230: Sphere102
+    4300232: Sphere103
+    4300234: Sphere104
+    4300236: Sphere105
+    4300238: Sphere106
+    4300240: Sphere107
+    4300242: Sphere108
+    4300244: Sphere109
+    4300246: Sphere110
+    4300248: Sphere111
+    4300250: Sphere112
+    4300252: Sphere113
+    4300254: Sphere114
+    4300256: Sphere115
+    4300258: Sphere116
+    4300260: Sphere117
+    4300262: Sphere118
+    4300264: Sphere119
+    4300266: Sphere120
+    4300268: Sphere121
+    4300270: Sphere122
+    4300272: Sphere123
+    4300274: Sphere124
+    4300276: Sphere125
+    4300278: Sphere126
+    4300280: Sphere127
+    4300282: Sphere128
+    4300284: Sphere129
+    4300286: Sphere130
+    4300288: Sphere131
+    4300290: Sphere132
+    4300292: Sphere133
+    4300294: Sphere134
+    4300296: Sphere135
+    4300298: Sphere136
+    4300300: Sphere137
+    4300302: Sphere138
+    4300304: Sphere139
+    4300306: Sphere140
+    4300308: Sphere141
+    4300310: Sphere142
+    4300312: Sphere143
+    4300314: Sphere144
+    4300316: Sphere145
+    4300318: Sphere146
+    4300320: Sphere147
+    4300322: Sphere148
+    4300324: Sphere149
+    4300326: Sphere150
+    4300328: Sphere151
+    4300330: Sphere152
+    4300332: Sphere153
+    4300334: Sphere154
+    4300336: Sphere155
+    4300338: Sphere156
+    4300340: Sphere157
+    4300342: Sphere158
+    4300344: Sphere159
+    4300346: Sphere160
+    4300348: Sphere161
+    4300350: Sphere162
+    4300352: Sphere163
+    4300354: Sphere164
+    4300356: Sphere165
+    4300358: Sphere166
+    4300360: Sphere167
+    4300362: Sphere168
+    4300364: Sphere169
+    4300366: Sphere170
+    4300368: Sphere171
+    4300370: Sphere172
+    4300372: Sphere173
+    4300374: Sphere174
+    4300376: Sphere175
+    4300378: Sphere176
+    4300380: Sphere177
+    4300382: Sphere178
+    4300384: Sphere179
+    4300386: Sphere180
+    4300388: Sphere181
+    4300390: Sphere182
+    4300392: Sphere183
+    4300394: Sphere184
+    4300396: Sphere185
+    4300398: Sphere186
+    4300400: Sphere187
+    4300402: Sphere188
+    4300404: Sphere189
+    4300406: Sphere190
+    4300408: Sphere191
+    4300410: Sphere192
+    4300412: Sphere193
+    4300414: Sphere194
+    4300416: Sphere195
+    4300418: Sphere196
+    4300420: Sphere197
+    4300422: Sphere198
+    4300424: Sphere199
+    4300426: Sphere200
+    4300428: Sphere201
+    4300430: Sphere202
+    4300432: Sphere203
+    4300434: Sphere204
+    4300436: Sphere205
+    4300438: Sphere206
+    4300440: Sphere207
+    4300442: Sphere208
+    4300444: Sphere209
+    4300446: Sphere210
+    4300448: Sphere211
+    4300450: Sphere212
+    4300452: Sphere213
+    4300454: Sphere214
+    4300456: Sphere215
+    4300458: Sphere216
+    4300460: Sphere217
+    4300462: Sphere218
+    4300464: Sphere219
+    4300466: Sphere220
+    4300468: Sphere221
+    4300470: Sphere222
+    4300472: Sphere223
+    4300474: Sphere224
+    4300476: Sphere225
+    4300478: Sphere226
+    4300480: Sphere227
+    4300482: Sphere228
+    4300484: Sphere229
+    4300486: Sphere230
+    4300488: Sphere231
+    4300490: Sphere232
+    4300492: Sphere233
+    4300494: Sphere234
+    4300496: Sphere235
+    4300498: Sphere236
+    4300500: Sphere237
+    4300502: Sphere238
+    4300504: Sphere239
+    4300506: Sphere240
+    4300508: Sphere241
+    4300510: Sphere242
+    4300512: Sphere243
+    4300514: Sphere244
+    4300516: Sphere245
+    4300518: Sphere246
+    4300520: Sphere247
+    4300522: Sphere248
+    4300524: Sphere249
+    4300526: Sphere250
+    4300528: Sphere251
+    4300530: Sphere252
+    4300532: Sphere253
+    4300534: Sphere254
+    4300536: Sphere255
+    4300538: Sphere256
+    4300540: Sphere257
+    4300542: Sphere258
+    4300544: Sphere259
+    4300546: Sphere260
+    4300548: Sphere261
+    4300550: Sphere262
+    4300552: Sphere263
+    4300554: Sphere264
+    4300556: Sphere265
+    4300558: Sphere266
+    4300560: Sphere267
+    4300562: Sphere268
+    4300564: Sphere269
+    4300566: Sphere270
+    4300568: Sphere271
+    4300570: Sphere272
+    4300572: Sphere273
+    4300574: Sphere274
+    4300576: Sphere275
+    4300578: Sphere276
+    4300580: Sphere277
+    4300582: Sphere278
+    4300584: Sphere279
+    4300586: Sphere280
+    4300588: Sphere281
+    4300590: Sphere282
+    4300592: Sphere283
+    4300594: Sphere284
+    4300596: Sphere285
+    4300598: Sphere286
+    4300600: Sphere287
+    4300602: Sphere288
+    4300604: Sphere289
+    4300606: Sphere290
+    4300608: Sphere291
+    4300610: Sphere292
+    4300612: Sphere293
+    4300614: Sphere294
+    4300616: Sphere295
+    4300618: Sphere296
+    4300620: Sphere297
+    4300622: Sphere298
+    4300624: Sphere299
+    4300626: Sphere300
+    4300628: Sphere301
+    4300630: Sphere302
+    4300632: Sphere303
+    4300634: Sphere304
+    4300636: Sphere305
+    4300638: Sphere306
+    4300640: Sphere307
+    4300642: Sphere308
+    4300644: Sphere309
+    4300646: Sphere310
+    4300648: Sphere311
+    4300650: Sphere312
+    4300652: Sphere313
+    4300654: Sphere314
+    4300656: Sphere315
+    4300658: Sphere316
+    4300660: Sphere317
+    4300662: Sphere318
+    4300664: Sphere319
+    4300666: Sphere320
+    4300668: Sphere321
+    4300670: Sphere322
+    4300672: Sphere323
+    4300674: Sphere324
+    4300676: Sphere325
+    4300678: Sphere326
+    4300680: Sphere327
+    4300682: Sphere328
+    4300684: Sphere329
+    4300686: Sphere330
+    4300688: Sphere331
+    4300690: Sphere332
+    4300692: Sphere333
+    4300694: Sphere334
+    4300696: Sphere335
+    4300698: Sphere336
+    4300700: Sphere337
+    4300702: Sphere338
+    4300704: Sphere339
+    4300706: Sphere340
+    4300708: Sphere341
+    4300710: Sphere342
+    4300712: Sphere343
+    4300714: Sphere344
+    4300716: Sphere345
+    4300718: Sphere346
+    4300720: Sphere347
+    4300722: Sphere348
+    4300724: Sphere349
+    4300726: Sphere350
+    4300728: Sphere351
+    4300730: Sphere352
+    4300732: Sphere353
+    4300734: Sphere354
+    4300736: Sphere355
+    4300738: Sphere356
+    4300740: Sphere357
+    4300742: Sphere358
+    4300744: Sphere359
+    4300746: Sphere360
+    4300748: Sphere361
+    4300750: Sphere362
+    4300752: Sphere363
+    4300754: Sphere364
+    4300756: Sphere365
+    4300758: Sphere366
+    4300760: Sphere367
+    7400000: Take 001
+    7400002: Take 0010
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: crane
+        weight: 1
+      - path: crane/Langue
+        weight: 1
+      - path: crane/oeil droit
+        weight: 1
+      - path: crane/oeil droit/pupille droite
+        weight: 1
+      - path: crane/oiel gauche
+        weight: 1
+      - path: crane/oiel gauche/pupille gauche
+        weight: 1
+      - path: crane/oreille droite
+        weight: 1
+      - path: crane/oreille gauche
+        weight: 1
+      - path: crane/pelage
+        weight: 1
+      - path: crane/pelage/Sphere001
+        weight: 1
+      - path: crane/pelage/Sphere002
+        weight: 1
+      - path: crane/pelage/Sphere003
+        weight: 1
+      - path: crane/pelage/Sphere004
+        weight: 1
+      - path: crane/pelage/Sphere005
+        weight: 1
+      - path: crane/pelage/Sphere006
+        weight: 1
+      - path: crane/pelage/Sphere007
+        weight: 1
+      - path: crane/pelage/Sphere008
+        weight: 1
+      - path: crane/pelage/Sphere009
+        weight: 1
+      - path: crane/pelage/Sphere010
+        weight: 1
+      - path: crane/pelage/Sphere011
+        weight: 1
+      - path: crane/pelage/Sphere012
+        weight: 1
+      - path: crane/pelage/Sphere013
+        weight: 1
+      - path: crane/pelage/Sphere014
+        weight: 1
+      - path: crane/pelage/Sphere015
+        weight: 1
+      - path: crane/pelage/Sphere016
+        weight: 1
+      - path: crane/pelage/Sphere017
+        weight: 1
+      - path: crane/pelage/Sphere018
+        weight: 1
+      - path: crane/pelage/Sphere019
+        weight: 1
+      - path: crane/pelage/Sphere020
+        weight: 1
+      - path: Laine
+        weight: 1
+      - path: Laine/Sphere021
+        weight: 1
+      - path: Laine/Sphere022
+        weight: 1
+      - path: Laine/Sphere023
+        weight: 1
+      - path: Laine/Sphere024
+        weight: 1
+      - path: Laine/Sphere025
+        weight: 1
+      - path: Laine/Sphere026
+        weight: 1
+      - path: Laine/Sphere027
+        weight: 1
+      - path: Laine/Sphere028
+        weight: 1
+      - path: Laine/Sphere029
+        weight: 1
+      - path: Laine/Sphere030
+        weight: 1
+      - path: Laine/Sphere031
+        weight: 1
+      - path: Laine/Sphere032
+        weight: 1
+      - path: Laine/Sphere033
+        weight: 1
+      - path: Laine/Sphere034
+        weight: 1
+      - path: Laine/Sphere035
+        weight: 1
+      - path: Laine/Sphere036
+        weight: 1
+      - path: Laine/Sphere037
+        weight: 1
+      - path: Laine/Sphere038
+        weight: 1
+      - path: Laine/Sphere039
+        weight: 1
+      - path: Laine/Sphere040
+        weight: 1
+      - path: Laine/Sphere041
+        weight: 1
+      - path: Laine/Sphere042
+        weight: 1
+      - path: Laine/Sphere043
+        weight: 1
+      - path: Laine/Sphere044
+        weight: 1
+      - path: Laine/Sphere045
+        weight: 1
+      - path: Laine/Sphere046
+        weight: 1
+      - path: Laine/Sphere047
+        weight: 1
+      - path: Laine/Sphere048
+        weight: 1
+      - path: Laine/Sphere049
+        weight: 1
+      - path: Laine/Sphere050
+        weight: 1
+      - path: Laine/Sphere051
+        weight: 1
+      - path: Laine/Sphere052
+        weight: 1
+      - path: Laine/Sphere053
+        weight: 1
+      - path: Laine/Sphere054
+        weight: 1
+      - path: Laine/Sphere055
+        weight: 1
+      - path: Laine/Sphere056
+        weight: 1
+      - path: Laine/Sphere057
+        weight: 1
+      - path: Laine/Sphere058
+        weight: 1
+      - path: Laine/Sphere059
+        weight: 1
+      - path: Laine/Sphere060
+        weight: 1
+      - path: Laine/Sphere061
+        weight: 1
+      - path: Laine/Sphere062
+        weight: 1
+      - path: Laine/Sphere063
+        weight: 1
+      - path: Laine/Sphere064
+        weight: 1
+      - path: Laine/Sphere065
+        weight: 1
+      - path: Laine/Sphere066
+        weight: 1
+      - path: Laine/Sphere067
+        weight: 1
+      - path: Laine/Sphere068
+        weight: 1
+      - path: Laine/Sphere069
+        weight: 1
+      - path: Laine/Sphere070
+        weight: 1
+      - path: Laine/Sphere071
+        weight: 1
+      - path: Laine/Sphere072
+        weight: 1
+      - path: Laine/Sphere073
+        weight: 1
+      - path: Laine/Sphere074
+        weight: 1
+      - path: Laine/Sphere075
+        weight: 1
+      - path: Laine/Sphere076
+        weight: 1
+      - path: Laine/Sphere077
+        weight: 1
+      - path: Laine/Sphere078
+        weight: 1
+      - path: Laine/Sphere079
+        weight: 1
+      - path: Laine/Sphere080
+        weight: 1
+      - path: Laine/Sphere081
+        weight: 1
+      - path: Laine/Sphere082
+        weight: 1
+      - path: Laine/Sphere083
+        weight: 1
+      - path: Laine/Sphere084
+        weight: 1
+      - path: Laine/Sphere085
+        weight: 1
+      - path: Laine/Sphere086
+        weight: 1
+      - path: Laine/Sphere087
+        weight: 1
+      - path: Laine/Sphere088
+        weight: 1
+      - path: Laine/Sphere089
+        weight: 1
+      - path: Laine/Sphere090
+        weight: 1
+      - path: Laine/Sphere091
+        weight: 1
+      - path: Laine/Sphere092
+        weight: 1
+      - path: Laine/Sphere093
+        weight: 1
+      - path: Laine/Sphere094
+        weight: 1
+      - path: Laine/Sphere095
+        weight: 1
+      - path: Laine/Sphere096
+        weight: 1
+      - path: Laine/Sphere097
+        weight: 1
+      - path: Laine/Sphere098
+        weight: 1
+      - path: Laine/Sphere099
+        weight: 1
+      - path: Laine/Sphere100
+        weight: 1
+      - path: Laine/Sphere101
+        weight: 1
+      - path: Laine/Sphere102
+        weight: 1
+      - path: Laine/Sphere103
+        weight: 1
+      - path: Laine/Sphere104
+        weight: 1
+      - path: Laine/Sphere105
+        weight: 1
+      - path: Laine/Sphere106
+        weight: 1
+      - path: Laine/Sphere107
+        weight: 1
+      - path: Laine/Sphere108
+        weight: 1
+      - path: Laine/Sphere109
+        weight: 1
+      - path: Laine/Sphere110
+        weight: 1
+      - path: Laine/Sphere111
+        weight: 1
+      - path: Laine/Sphere112
+        weight: 1
+      - path: Laine/Sphere113
+        weight: 1
+      - path: Laine/Sphere114
+        weight: 1
+      - path: Laine/Sphere115
+        weight: 1
+      - path: Laine/Sphere116
+        weight: 1
+      - path: Laine/Sphere117
+        weight: 1
+      - path: Laine/Sphere118
+        weight: 1
+      - path: Laine/Sphere119
+        weight: 1
+      - path: Laine/Sphere120
+        weight: 1
+      - path: Laine/Sphere121
+        weight: 1
+      - path: Laine/Sphere122
+        weight: 1
+      - path: Laine/Sphere123
+        weight: 1
+      - path: Laine/Sphere124
+        weight: 1
+      - path: Laine/Sphere125
+        weight: 1
+      - path: Laine/Sphere126
+        weight: 1
+      - path: Laine/Sphere127
+        weight: 1
+      - path: Laine/Sphere128
+        weight: 1
+      - path: Laine/Sphere129
+        weight: 1
+      - path: Laine/Sphere130
+        weight: 1
+      - path: Laine/Sphere131
+        weight: 1
+      - path: Laine/Sphere132
+        weight: 1
+      - path: Laine/Sphere133
+        weight: 1
+      - path: Laine/Sphere134
+        weight: 1
+      - path: Laine/Sphere135
+        weight: 1
+      - path: Laine/Sphere136
+        weight: 1
+      - path: Laine/Sphere137
+        weight: 1
+      - path: Laine/Sphere138
+        weight: 1
+      - path: Laine/Sphere139
+        weight: 1
+      - path: Laine/Sphere140
+        weight: 1
+      - path: Laine/Sphere141
+        weight: 1
+      - path: Laine/Sphere142
+        weight: 1
+      - path: Laine/Sphere143
+        weight: 1
+      - path: Laine/Sphere144
+        weight: 1
+      - path: Laine/Sphere145
+        weight: 1
+      - path: Laine/Sphere146
+        weight: 1
+      - path: Laine/Sphere147
+        weight: 1
+      - path: Laine/Sphere148
+        weight: 1
+      - path: Laine/Sphere149
+        weight: 1
+      - path: Laine/Sphere150
+        weight: 1
+      - path: Laine/Sphere151
+        weight: 1
+      - path: Laine/Sphere152
+        weight: 1
+      - path: Laine/Sphere153
+        weight: 1
+      - path: Laine/Sphere154
+        weight: 1
+      - path: Laine/Sphere155
+        weight: 1
+      - path: Laine/Sphere156
+        weight: 1
+      - path: Laine/Sphere157
+        weight: 1
+      - path: Laine/Sphere158
+        weight: 1
+      - path: Laine/Sphere159
+        weight: 1
+      - path: Laine/Sphere160
+        weight: 1
+      - path: Laine/Sphere161
+        weight: 1
+      - path: Laine/Sphere162
+        weight: 1
+      - path: Laine/Sphere163
+        weight: 1
+      - path: Laine/Sphere164
+        weight: 1
+      - path: Laine/Sphere165
+        weight: 1
+      - path: Laine/Sphere166
+        weight: 1
+      - path: Laine/Sphere167
+        weight: 1
+      - path: Laine/Sphere168
+        weight: 1
+      - path: Laine/Sphere169
+        weight: 1
+      - path: Laine/Sphere170
+        weight: 1
+      - path: Laine/Sphere171
+        weight: 1
+      - path: Laine/Sphere172
+        weight: 1
+      - path: Laine/Sphere173
+        weight: 1
+      - path: Laine/Sphere174
+        weight: 1
+      - path: Laine/Sphere175
+        weight: 1
+      - path: Laine/Sphere176
+        weight: 1
+      - path: Laine/Sphere177
+        weight: 1
+      - path: Laine/Sphere178
+        weight: 1
+      - path: Laine/Sphere179
+        weight: 1
+      - path: Laine/Sphere180
+        weight: 1
+      - path: Laine/Sphere181
+        weight: 1
+      - path: Laine/Sphere182
+        weight: 1
+      - path: Laine/Sphere183
+        weight: 1
+      - path: Laine/Sphere184
+        weight: 1
+      - path: Laine/Sphere185
+        weight: 1
+      - path: Laine/Sphere186
+        weight: 1
+      - path: Laine/Sphere187
+        weight: 1
+      - path: Laine/Sphere188
+        weight: 1
+      - path: Laine/Sphere189
+        weight: 1
+      - path: Laine/Sphere190
+        weight: 1
+      - path: Laine/Sphere191
+        weight: 1
+      - path: Laine/Sphere192
+        weight: 1
+      - path: Laine/Sphere193
+        weight: 1
+      - path: Laine/Sphere194
+        weight: 1
+      - path: Laine/Sphere195
+        weight: 1
+      - path: Laine/Sphere196
+        weight: 1
+      - path: Laine/Sphere197
+        weight: 1
+      - path: Laine/Sphere198
+        weight: 1
+      - path: Laine/Sphere199
+        weight: 1
+      - path: Laine/Sphere200
+        weight: 1
+      - path: Laine/Sphere201
+        weight: 1
+      - path: Laine/Sphere202
+        weight: 1
+      - path: Laine/Sphere203
+        weight: 1
+      - path: Laine/Sphere204
+        weight: 1
+      - path: Laine/Sphere205
+        weight: 1
+      - path: Laine/Sphere206
+        weight: 1
+      - path: Laine/Sphere207
+        weight: 1
+      - path: Laine/Sphere208
+        weight: 1
+      - path: Laine/Sphere209
+        weight: 1
+      - path: Laine/Sphere210
+        weight: 1
+      - path: Laine/Sphere211
+        weight: 1
+      - path: Laine/Sphere212
+        weight: 1
+      - path: Laine/Sphere213
+        weight: 1
+      - path: Laine/Sphere214
+        weight: 1
+      - path: Laine/Sphere215
+        weight: 1
+      - path: Laine/Sphere216
+        weight: 1
+      - path: Laine/Sphere217
+        weight: 1
+      - path: Laine/Sphere218
+        weight: 1
+      - path: Laine/Sphere219
+        weight: 1
+      - path: Laine/Sphere220
+        weight: 1
+      - path: Laine/Sphere221
+        weight: 1
+      - path: Laine/Sphere222
+        weight: 1
+      - path: Laine/Sphere223
+        weight: 1
+      - path: Laine/Sphere224
+        weight: 1
+      - path: Laine/Sphere225
+        weight: 1
+      - path: Laine/Sphere226
+        weight: 1
+      - path: Laine/Sphere227
+        weight: 1
+      - path: Laine/Sphere228
+        weight: 1
+      - path: Laine/Sphere229
+        weight: 1
+      - path: Laine/Sphere230
+        weight: 1
+      - path: Laine/Sphere231
+        weight: 1
+      - path: Laine/Sphere232
+        weight: 1
+      - path: Laine/Sphere233
+        weight: 1
+      - path: Laine/Sphere234
+        weight: 1
+      - path: Laine/Sphere235
+        weight: 1
+      - path: Laine/Sphere236
+        weight: 1
+      - path: Laine/Sphere237
+        weight: 1
+      - path: Laine/Sphere238
+        weight: 1
+      - path: Laine/Sphere239
+        weight: 1
+      - path: Laine/Sphere240
+        weight: 1
+      - path: Laine/Sphere241
+        weight: 1
+      - path: Laine/Sphere242
+        weight: 1
+      - path: Laine/Sphere243
+        weight: 1
+      - path: Laine/Sphere244
+        weight: 1
+      - path: Laine/Sphere245
+        weight: 1
+      - path: Laine/Sphere246
+        weight: 1
+      - path: Laine/Sphere247
+        weight: 1
+      - path: Laine/Sphere248
+        weight: 1
+      - path: Laine/Sphere249
+        weight: 1
+      - path: Laine/Sphere250
+        weight: 1
+      - path: Laine/Sphere251
+        weight: 1
+      - path: Laine/Sphere252
+        weight: 1
+      - path: Laine/Sphere253
+        weight: 1
+      - path: Laine/Sphere254
+        weight: 1
+      - path: Laine/Sphere255
+        weight: 1
+      - path: Laine/Sphere256
+        weight: 1
+      - path: Laine/Sphere257
+        weight: 1
+      - path: Laine/Sphere258
+        weight: 1
+      - path: Laine/Sphere259
+        weight: 1
+      - path: Laine/Sphere260
+        weight: 1
+      - path: Laine/Sphere261
+        weight: 1
+      - path: Laine/Sphere262
+        weight: 1
+      - path: Laine/Sphere263
+        weight: 1
+      - path: Laine/Sphere264
+        weight: 1
+      - path: Laine/Sphere265
+        weight: 1
+      - path: Laine/Sphere266
+        weight: 1
+      - path: Laine/Sphere267
+        weight: 1
+      - path: Laine/Sphere268
+        weight: 1
+      - path: Laine/Sphere269
+        weight: 1
+      - path: Laine/Sphere270
+        weight: 1
+      - path: Laine/Sphere271
+        weight: 1
+      - path: Laine/Sphere272
+        weight: 1
+      - path: Laine/Sphere273
+        weight: 1
+      - path: Laine/Sphere274
+        weight: 1
+      - path: Laine/Sphere275
+        weight: 1
+      - path: Laine/Sphere276
+        weight: 1
+      - path: Laine/Sphere277
+        weight: 1
+      - path: Laine/Sphere278
+        weight: 1
+      - path: Laine/Sphere279
+        weight: 1
+      - path: Laine/Sphere280
+        weight: 1
+      - path: Laine/Sphere281
+        weight: 1
+      - path: Laine/Sphere282
+        weight: 1
+      - path: Laine/Sphere283
+        weight: 1
+      - path: Laine/Sphere284
+        weight: 1
+      - path: Laine/Sphere285
+        weight: 1
+      - path: Laine/Sphere286
+        weight: 1
+      - path: Laine/Sphere287
+        weight: 1
+      - path: Laine/Sphere288
+        weight: 1
+      - path: Laine/Sphere289
+        weight: 1
+      - path: Laine/Sphere290
+        weight: 1
+      - path: Laine/Sphere291
+        weight: 1
+      - path: Laine/Sphere292
+        weight: 1
+      - path: Laine/Sphere293
+        weight: 1
+      - path: Laine/Sphere294
+        weight: 1
+      - path: Laine/Sphere295
+        weight: 1
+      - path: Laine/Sphere296
+        weight: 1
+      - path: Laine/Sphere297
+        weight: 1
+      - path: Laine/Sphere298
+        weight: 1
+      - path: Laine/Sphere299
+        weight: 1
+      - path: Laine/Sphere300
+        weight: 1
+      - path: Laine/Sphere301
+        weight: 1
+      - path: Laine/Sphere302
+        weight: 1
+      - path: Laine/Sphere303
+        weight: 1
+      - path: Laine/Sphere304
+        weight: 1
+      - path: Laine/Sphere305
+        weight: 1
+      - path: Laine/Sphere306
+        weight: 1
+      - path: Laine/Sphere307
+        weight: 1
+      - path: Laine/Sphere308
+        weight: 1
+      - path: Laine/Sphere309
+        weight: 1
+      - path: Laine/Sphere310
+        weight: 1
+      - path: Laine/Sphere311
+        weight: 1
+      - path: Laine/Sphere312
+        weight: 1
+      - path: Laine/Sphere313
+        weight: 1
+      - path: Laine/Sphere314
+        weight: 1
+      - path: Laine/Sphere315
+        weight: 1
+      - path: Laine/Sphere316
+        weight: 1
+      - path: Laine/Sphere317
+        weight: 1
+      - path: Laine/Sphere318
+        weight: 1
+      - path: Laine/Sphere319
+        weight: 1
+      - path: Laine/Sphere320
+        weight: 1
+      - path: Laine/Sphere321
+        weight: 1
+      - path: Laine/Sphere322
+        weight: 1
+      - path: Laine/Sphere323
+        weight: 1
+      - path: Laine/Sphere324
+        weight: 1
+      - path: Laine/Sphere325
+        weight: 1
+      - path: Laine/Sphere326
+        weight: 1
+      - path: Laine/Sphere327
+        weight: 1
+      - path: Laine/Sphere328
+        weight: 1
+      - path: Laine/Sphere329
+        weight: 1
+      - path: Laine/Sphere330
+        weight: 1
+      - path: Laine/Sphere331
+        weight: 1
+      - path: Laine/Sphere332
+        weight: 1
+      - path: Laine/Sphere333
+        weight: 1
+      - path: Laine/Sphere334
+        weight: 1
+      - path: Laine/Sphere335
+        weight: 1
+      - path: Laine/Sphere336
+        weight: 1
+      - path: Laine/Sphere337
+        weight: 1
+      - path: Laine/Sphere338
+        weight: 1
+      - path: Laine/Sphere339
+        weight: 1
+      - path: Laine/Sphere340
+        weight: 1
+      - path: Laine/Sphere341
+        weight: 1
+      - path: Laine/Sphere342
+        weight: 1
+      - path: Laine/Sphere343
+        weight: 1
+      - path: Laine/Sphere344
+        weight: 1
+      - path: Laine/Sphere345
+        weight: 1
+      - path: Laine/Sphere346
+        weight: 1
+      - path: Laine/Sphere347
+        weight: 1
+      - path: Laine/Sphere348
+        weight: 1
+      - path: Laine/Sphere349
+        weight: 1
+      - path: Laine/Sphere350
+        weight: 1
+      - path: Laine/Sphere351
+        weight: 1
+      - path: Laine/Sphere352
+        weight: 1
+      - path: Laine/Sphere353
+        weight: 1
+      - path: Laine/Sphere354
+        weight: 1
+      - path: Laine/Sphere355
+        weight: 1
+      - path: Laine/Sphere356
+        weight: 1
+      - path: Laine/Sphere357
+        weight: 1
+      - path: Laine/Sphere358
+        weight: 1
+      - path: Laine/Sphere359
+        weight: 1
+      - path: Laine/Sphere360
+        weight: 1
+      - path: Laine/Sphere361
+        weight: 1
+      - path: Laine/Sphere362
+        weight: 1
+      - path: Laine/Sphere363
+        weight: 1
+      - path: Laine/Sphere364
+        weight: 1
+      - path: Laine/Sphere365
+        weight: 1
+      - path: Laine/Sphere366
+        weight: 1
+      - path: Laine/Sphere367
+        weight: 1
+      - path: "patte arri\xE8re droite"
+        weight: 1
+      - path: "patte arri\xE8re gauche"
+        weight: 1
+      - path: patte avant droite
+        weight: 1
+      - path: patte avant gauche
+        weight: 1
+      - path: queue
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
